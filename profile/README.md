@@ -9,6 +9,7 @@ FieldWorks gives industrial facilities a natural language interface to their own
 | --- | --- | --- |
 | [fieldworks-core](https://github.com/fieldworks-build/fieldworks-core) | Python | Topology validation, specialist prompt generation, aggregator configuration |
 | [fieldworks-adapters](https://github.com/fieldworks-build/fieldworks-adapters) | Rust | Conformant MCP protocol adapters — MQTT, OPC-UA, Modbus, DNP3, EtherNet/IP, AVEVA | 
+| [fieldworks-examples](https://github.com/fieldworks-build/fieldworks-examples) | Python | Dependency-free examples for the Fieldworks industrial AI framework |
 | [fieldworks-spec](https://github.com/fieldworks-build/fieldworks-spec/blob/main/Fieldworks_Framework_Specification_v0.1.pdf) |  | Framework specification v0.1 | 
 
 ## Reference implementation
